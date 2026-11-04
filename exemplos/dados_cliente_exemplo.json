@@ -1,0 +1,25 @@
+{
+  "nome": "Maria Aparecida da Silva",
+  "genero": "F",
+  "nacionalidade": "brasileira",
+  "estado_civil": "casada",
+  "profissao": "auxiliar de limpeza",
+  "rg": "12.345.678-9",
+  "orgao_emissor": "SSP/SP",
+  "cpf": "123.456.789-00",
+  "logradouro": "Rua das Flores",
+  "numero": "120",
+  "complemento": "",
+  "bairro": "Itaquera",
+  "cidade": "São Paulo",
+  "uf": "SP",
+  "cep": "08210-000",
+
+  "acao": "AÇÃO TRABALHISTA",
+  "percentual": 30,
+  "foro": "Regional de Itaquera, desta Comarca",
+  "hipossuficiencia": true,
+  "clausulas_trabalhistas": null,
+  "cidade_assinatura": "São Paulo",
+  "data": null
+}

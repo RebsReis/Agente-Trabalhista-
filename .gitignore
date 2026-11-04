@@ -1,0 +1,5 @@
+# Documentos gerados contêm dados pessoais de clientes — nunca versionar
+clientes/
+entrada/
+*.pdf
+__pycache__/
